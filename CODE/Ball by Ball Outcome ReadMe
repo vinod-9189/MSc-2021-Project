@@ -1,0 +1,38 @@
+Problem Statement.
+        Ball-by-Ball Prediction. Given a batsman and bowler predict the outcome.
+
+Models:
+    1. Random Forest.
+        * This is an Ensemble learning technique which uses bagging where the baseline model is Decision Tree.
+        * The Dataset is divided into multiple subsets with/without replacement of rows.
+        * Later Decision Tree model is run on individual subsets.
+        * Finally an aggregation from all the models is taken an given as a final output
+
+        Attributes for the model:
+            * Average Score.
+            * Strike Rate.
+            * Not Outs.
+            * 6's
+            * 4's
+
+            * Wickets
+            * 3 Wickets
+            * 4 Wickets
+            * Economy
+            * Wicket Taking Ability/SR
+            * Average
+
+            * Over
+            * Ball
+            * Stadium (convert categorical to numeric)
+            * Extras
+            * Batsman Runs
+            * Boundary
+            * wicket
+
+
+    2. SVM.
+        * Classification can be performed with Support Vector Machine in two methods.
+        * One Vs One & One Vs Rest
+        * Different kernel functions can be applied and validated in-order to find the best kernel.
+        * The same attributes above mentioned will be passed to this model.
