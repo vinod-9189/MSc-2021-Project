@@ -1,0 +1,93 @@
+﻿									Attributes
+1) PLAYERS :
+	a)Batsman
+		1. No Of Matches Played.
+		2. No Of Not Outs.
+		3. Total Runs.
+		4. No Of Balls Faced.
+		5. Highest Score.
+		6. Average Score.     (No of runs scored / No of Outs)
+		7. Strike Rate.           ( No of runs scored / No of Balls faced) * 100
+		8. 100’s
+		9. 50’s
+		10. 4’s
+		11. 6’s
+
+	b)Bowler: 
+		There are five different metrics that we have taken for the bowlers.
+                        
+                        Mats: No Of Matches Played 
+                        
+                        Inns: No Of Innings played
+                        
+                        Overs: No of overs bowled by a bowler in ipl
+
+
+                        Runs: Runs Conceded by a bowler 
+
+
+                        Wickets: No of wickets taken by a bowler 
+
+
+                        4Wkts: No of 4 wickets taken by the bowler in ipl 
+
+
+                        5Wkts: No of 5 wickets taken by the bowler in ipl
+                         
+		I)Economy = Runs Conceded / (Number of balls bowled by bowler/6).
+			* It is the first measure to ensure that a player is a good bowler.  
+			* In most circumstances, the lower the economy rate is, the better the bowler is performing.
+                                     
+        II)Wicket Taking Ability = Number of balls bowled / Wickets Taken
+			* It slows down the run rate and keeps pressure on the batting team.
+                                
+        III)Consistency = Runs Conceded / Wickets Taken
+			*  Consistent bowlers help a team get maximum wickets while keeping runs at bay.
+
+2) Matches:   
+
+	The attributes for matches are:-
+	
+		1.Venue: 			The place where the match is held between any two teams.
+		
+		2.Pitch : 			On Which area the match happened like Green, Dusty, Dead.
+
+		3.Maximum Runs by batting : 	top  Runs scored by a batsman in a particular 
+		
+		4.Number of Wickets : 		the bowler who give less runs and took more wickets        
+
+		5. Man of The Match :  	valuable player of match
+        
+	Yet to do
+
+		1.Total Strike Rate: 		The total strike rate of each innings.
+		
+		2.Total Wickets in Hand: 	The total number of wickets remaining for each innings.
+		
+		3.Strength:   			This talks about the strength of a team in either bowling or batting.
+		
+		4.overs bowled by bowler  :
+		
+		5.economy rate and strike rate for bowler and batsman :
+                
+         
+3) Teams :
+		1)Team 
+		
+		2)No.of Matches Played
+		
+		3)No.of Matches won
+		
+		4)Matches lost
+		
+		5)How many matches they have won by winning the toss
+	YET TO DO
+
+		6)How many matches they have won by electing to bat first.
+		
+		7)Avg score of the team 1st innings(winning)
+		
+		8)Avg score of the team 2nd innings(wining)
+		
+		9)Avg score that the team was not able to chase
+		

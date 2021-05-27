@@ -1,0 +1,10 @@
+						﻿OUTCOMES
+1. Given two teams with their members, predict which team will win.
+2. Given two teams with their members, predict the event ball by ball.
+3. Which bowler will take a batsman's wicket?
+4. How many runs will a batsman score
+5. How many wickets will a bowler take?
+6. Will the same bowler take the wicket of a batsman whom he got the last few matches.
+7. Most uncomfortable bowler for a batsman.
+8. Dream 11.
+9. Dashboards?
