@@ -58,7 +58,7 @@
 
 		5. Man of The Match :  	valuable player of match
         
-	Yet to do
+	
 
 		1.Total Strike Rate: 		The total strike rate of each innings.
 		
@@ -81,7 +81,7 @@
 		4)Matches lost
 		
 		5)How many matches they have won by winning the toss
-	YET TO DO
+
 
 		6)How many matches they have won by electing to bat first.
 		
